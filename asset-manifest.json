@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ekskul-swapi/static/css/main.e6c13ad2.css",
+    "main.js": "/ekskul-swapi/static/js/main.aab7561e.js",
+    "static/js/787.24f13bd4.chunk.js": "/ekskul-swapi/static/js/787.24f13bd4.chunk.js",
+    "static/media/Illustration.svg": "/ekskul-swapi/static/media/Illustration.b1c67f7ced45f4fe9ced6e9ede7b950c.svg",
+    "index.html": "/ekskul-swapi/index.html",
+    "main.e6c13ad2.css.map": "/ekskul-swapi/static/css/main.e6c13ad2.css.map",
+    "main.aab7561e.js.map": "/ekskul-swapi/static/js/main.aab7561e.js.map",
+    "787.24f13bd4.chunk.js.map": "/ekskul-swapi/static/js/787.24f13bd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.aab7561e.js"
+  ]
+}
